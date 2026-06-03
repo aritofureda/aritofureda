@@ -1,24 +1,21 @@
-<h1 align="center">Hi there 👋, I'm aritofureda</h1>
-<h3 align="center">IoT Developer & Electrical Monitoring Enthusiast</h3>
+<h1 align="center">Hi there, I'm aritofureda</h1>
+<h3 align="center"></h3>
 
 <p align="center">
   <a href="https://github.com/aritofureda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/aritofureda/iot-dashboard"><img src="https://img.shields.io/badge/Project-IoT_Dashboard-2563EB?style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="https://termux.dev"><img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made_with--red?style=for-the-badge"/>
 </p>
 
 ---
 
-### ⚡ About Me
+### About Me
 
 - 🔭 **Current Project:** [IoT Electricity Monitoring Dashboard](https://github.com/aritofureda/iot-dashboard)
-- 🌱 **Learning:** React, IoT Integration, ESP32, Real-time Systems
-- 💡 **Focus:** Building practical IoT solutions for electricity monitoring
-- ⚙️ **Stack:** React · Vite · Tailwind CSS · Node.js · ESP32
-- 📱 **Development:** Built entirely on **Termux** (Android)
 
-### 🛠️ Tech Stack
+
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -37,28 +34,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aritofureda&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritofureda&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%"/>
 </p>
 
-### 🚀 Featured Project
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ IoT Electricity Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/aritofureda/iot-dashboard">
-          <img src="https://img.shields.io/badge/View_Repo-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Admin panel real-time untuk monitoring konsumsi listrik IoT. React + Vite + Tailwind CSS + Recharts.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -67,5 +50,5 @@
 </p>
 
 <p align="center">
-  <i>Built with ❤️ on Termux</i>
+  <i>Built with ? on Termux</i>
 </p>
